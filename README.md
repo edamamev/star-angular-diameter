@@ -1,5 +1,10 @@
 # Star Angular Diameter.
 
-Returns the star's angular diameter
+Returns a star's or object's angular diameter based on the stellar objects radius and distance.
 
-Given a stars details as formatted:
+Also contains helper function for converting between:
+- Degrees
+- Radians
+- Arc Minutes
+- Arc Seconds
+- Milliarc Seconds
